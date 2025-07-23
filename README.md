@@ -32,3 +32,64 @@ In this step, you will create a Jenkins Pipeline job, which allows you to script
 Here’s how you can create a Pipeline job in Jenkins and name it "My pipeline job"
 
 <img width="754" height="418" alt="Screenshot 2025-07-23 at 7 44 21 pm" src="https://github.com/user-attachments/assets/e0b608a8-d562-40c5-bd7c-0e9c5541e261" />
+
+Go to the configuration page of your Jenkins job, scroll down to the 'Build Triggers' section, and check the box for 'GitHub hook trigger for GITScm polling' to enable triggering the job via a GitHub webhook
+
+
+<img width="754" height="418" alt="Screenshot 2025-07-23 at 7 48 37 pm" src="https://github.com/user-attachments/assets/ec7028c9-0e4e-4a11-9e0a-88da38ee8125" />
+
+Here’s a simple and clean Jenkins Pipeline script (also called a Jenkinsfile) you can use to get started
+
+<img width="754" height="418" alt="Screenshot 2025-07-23 at 7 54 55 pm" src="https://github.com/user-attachments/assets/a6a77e50-961e-4415-9027-447bf519f9e4" />
+
+Click on the 'Pipeline Syntax' link in Jenkins to generate and customize pipeline code snippets for your job."
+
+
+<img width="754" height="418" alt="Screenshot 2025-07-23 at 7 56 31 pm" src="https://github.com/user-attachments/assets/72e49325-b500-42fc-90b3-02474b8b269c" />
+
+Generate Pipeline script
+
+
+<img width="754" height="418" alt="Screenshot 2025-07-23 at 8 09 24 pm" src="https://github.com/user-attachments/assets/9aa03c10-ef30-4dc1-bd22-56bc7c5e633b" />
+
+
+
+Generate Pipeline script here 
+
+<img width="754" height="418" alt="Screenshot 2025-07-23 at 8 12 08 pm" src="https://github.com/user-attachments/assets/eed054ef-508e-42c2-aeb8-9c39aea43915" />
+
+Here’s a clear instruction and a sample to create your docker.sh 
+
+<img width="778" height="150" alt="Screenshot 2025-07-23 at 10 46 55 pm" src="https://github.com/user-attachments/assets/b6d455a5-900a-4ed3-9a0b-bf6503d1e2bb" />
+
+
+<img width="1289" height="268" alt="Screenshot 2025-07-23 at 8 15 23 pm" src="https://github.com/user-attachments/assets/2f313f79-3a6d-415b-a35e-8b9cb763e5f1" />
+
+Here’s how you can create both a Dockerfile and an index.html file step-by-step
+
+<img width="830" height="106" alt="Screenshot 2025-07-23 at 8 35 09 pm" src="https://github.com/user-attachments/assets/5ba21f8a-d3e2-414d-8dad-efc9385633b5" />
+
+here is the text inside the file and it it by cat dockerfile, cat index.html
+
+<img width="849" height="328" alt="Screenshot 2025-07-23 at 8 42 13 pm" src="https://github.com/user-attachments/assets/40269de6-275d-4c2a-bbdc-731612e58dcd" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
